@@ -1,5 +1,6 @@
-<img width="119" alt="Kite UHN logo" src="https://user-images.githubusercontent.com/98551893/235286965-77ef4644-7677-43e5-9e43-d788ba7c9108.png](https://github.com/Kite-Tara/Kite-Tara/assets/145040855/815a87e7-1f9d-4115-9641-98c96439f025)">
+<img width="119" alt="Kite UHN logo" src="https://github.com/Kite-Tara/Kite-Tara/assets/145040855/c184b629-9852-440f-8e44-e6523d0b1774">
 <h1>Hi, I'm Tara 👋</h1>
+![KITE@UHN_transparent]()
 
 <!---
 Kite-Tara/Kite-Tara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
